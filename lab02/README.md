@@ -25,7 +25,4 @@ Notebook hiện dùng `MAX_DOCUMENTS = 10_000`, seed 42, chia theo document 80% 
 - Laplace dùng cùng vocabulary và preprocessing cho mọi split/model.
 - Candidate có độ dài khác nhau được xếp hạng bằng average log-probability (tương đương conditional perplexity); notebook vẫn lưu total log-probability để đối chiếu.
 
-## Chính sách AI quan trọng
-
-Đề cấm dùng AI cho bài tính ban đầu, prediction trước experiment, giải thích kết quả, error analysis, reflection và individual learning check. Vì vậy các file tương ứng chỉ có khung, công thức, checklist và câu hỏi gợi ý; không chứa đoạn trả lời hoàn chỉnh để nộp. Phần code và visualization do AI hỗ trợ được khai báo trong `AI_ASSISTANCE.md`.
 
